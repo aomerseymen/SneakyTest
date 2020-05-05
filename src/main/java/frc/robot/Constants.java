@@ -36,8 +36,8 @@ public final class Constants {
         public static final int frontRightMotorPin = 5;
         public static final int rearLeftMotorPin = 6;
         public static final int rearRightMotorPin = 7;
-        public static final double turnP = 1.0;
-        public static final double turnI = 1.0;
+        public static final double turnP = 1.2;
+        public static final double turnI = 0.5;
         public static final double turnD = 1.0;
         public static final double driveP = 1.0;
         public static final double driveI = 1.0;
