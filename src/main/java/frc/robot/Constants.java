@@ -48,6 +48,7 @@ public final class Constants {
         public static final int rEncoderPortB = 5;
         public static final int lEncoderPortA = 6;
         public static final int lEncoderPortB = 7;
+        public static final int extraEncoder = 8;
 
     }
 
